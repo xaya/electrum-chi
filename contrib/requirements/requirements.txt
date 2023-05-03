@@ -14,4 +14,4 @@ attrs>=19.2.0
 dnspython>=2.0
 
 jsonrpcserver>=4.0.5
-neoscrypt_python>=1.0.2
+neoscrypt_python>=1.0.5
