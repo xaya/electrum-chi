@@ -106,8 +106,8 @@ Compile the Qt UI::
 
 Copy over the www root::
 
-    rm -rf electrum_nmc/electrum/www
-    cp -a electrum/www electrum_nmc/electrum/www
+    rm -rf electrum_chi/electrum/www
+    cp -a electrum/www electrum_chi/electrum/www
 
 Create translations (optional)::
 
